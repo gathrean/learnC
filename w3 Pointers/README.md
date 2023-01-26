@@ -15,5 +15,14 @@
 10. Calculate the length of the string using a pointer.
 11. Swap 'elements' using call by reference.
 12. Find the factorial of a given number using pointers.
-13. 
+13. Count the number of vowels and consonants in a String using a pointer.
+14. Sort an Array using pointer.
+15. Show how a function returning pointer.
+16. Computer the sum of all elements in an array using pointers.
+17. Print the elements of an array in reverse order.
+18. Show the usage of pointer to structure.
+19. Show a pointer to union.
+20. Show a pointer to an array which contents are pointer to structure.
+21. Print all the alphabets using a pointer.
+22. Print a string in reverse using a pointer.
 
