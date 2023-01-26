@@ -16,13 +16,9 @@ int main(){
     printf("\n--------------------------------------------------------");
     printf("\n\n m = 300\n fx = 300.600006\n cht = z");
 
-    int *pt1;
-    float *pt2;
-    char *pt3;
-
-    pt1 = &m;
-    pt2 = &fx;
-    pt3 = &cht;
+    int *pt1 = &m;
+    float *pt2 = &fx;
+    char *pt3 = &cht;
 
     printf("\n\nUsing & operator : \n-----------------------");
     printf("\n address of m = %p", &m);
